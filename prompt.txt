@@ -1,0 +1,13 @@
+You are a portfolio website generator.
+
+Take the resume below and generate a clean, modern personal portfolio website in pure HTML and inline CSS.
+
+Include:
+- A hero section with name and title
+- Bio / About section
+- Skills in a bullet list or badges
+- Work experience with job titles and dates
+- Contact section
+
+Resume:
+{resume}
