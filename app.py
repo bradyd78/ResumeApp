@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request, send_file
-from langchain.chat_models import ChatOllama
+from langchain.chat_models import ChatOpenAI
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
 
