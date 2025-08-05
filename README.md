@@ -53,8 +53,8 @@ A website that takes resumes as input and outputs a portfolio website—powered 
    cd ResumeApp
 Install dependencies
 
-bash
-pip install -r requirements.txt
+  ```bash
+  pip install -r requirements.txt
 Run Ollama Install and start Ollama by following the instructions at ollama.com.
 
 Start the Flask server
@@ -79,15 +79,15 @@ Fork the repository
 
 Create a new branch
 
-'''bash
+```bash
 git checkout -b feature-name
 Make your changes and commit
 
-'''bash
+```bash
 git commit -m "Add new feature"
 Push to your branch
 
-'''bash
+```bash
 git push origin feature-name
 Open a pull request
 
