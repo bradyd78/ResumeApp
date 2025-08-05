@@ -70,10 +70,10 @@ ResumeApp processes your document and generates a professional portfolio site
 
 Download your new HTML site and deploy it wherever you wish
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome!
 
-To contribute:
+### To contribute:
 
 Fork the repository
 
@@ -93,12 +93,12 @@ Open a pull request
 
 Feel free to open issues for suggestions or bugs.
 
-📜 License
+## 📜 License
 This project is open-source and available under the MIT License.
 
 Empower your professional presence—privately, locally, and for free.
 
 
-✅ This version includes **everything you originally wrote**, including the numbered steps (2–5), and it’s all properly formatted in Markdown.
+## ✅ This version includes **everything you originally wrote**, including the numbered steps (2–5), and it’s all properly formatted in Markdown.
 
 Let me know if you'd like to add screenshots, demo links, or deployment instruct
