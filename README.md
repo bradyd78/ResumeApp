@@ -95,9 +95,3 @@ Feel free to open issues for suggestions or bugs.
 ## 📜 License
 This project is open-source and available under the MIT License.
 
-Empower your professional presence—privately, locally, and for free.
-
-
-## ✅ This version includes **everything you originally wrote**, including the numbered steps (2–5), and it’s all properly formatted in Markdown.
-
-Let me know if you'd like to add screenshots, demo links, or deployment instruct
